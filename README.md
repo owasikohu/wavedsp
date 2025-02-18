@@ -1,2 +1,2 @@
-# sawave
+# wave
 Embedded Sound Programming Language
