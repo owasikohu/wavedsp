@@ -1,2 +1,2 @@
-# wave
+# wavedsp
 Embedded Sound Programming Language
