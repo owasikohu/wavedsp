@@ -1,2 +1,2 @@
 # wavedsp
-Embedded Sound Programming Language
+int-based sound synthesis library
